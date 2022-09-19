@@ -1,0 +1,2 @@
+IP: 109.201.178.209
+conn: mongodb+srv://admin:<password>@cluster0.fen0xqs.mongodb.net/?retryWrites=true&w=majority
